@@ -1,0 +1,22 @@
+{
+  "name": "bootjs-render",
+  "version": "0.1.2",
+  "description": "HTML render middleware ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootjs-common": "^0.1.2",
+    "lodash": "^4.17.4"
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/guoguolong/bootjs-render.git"
+  },
+  "keywords": [
+    "HTML Render"
+  ],
+  "author": "Allen Guo",
+  "license": "MIT"
+}
