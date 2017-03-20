@@ -1,6 +1,6 @@
 {
   "name": "bootjs-render",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "HTML render middleware ",
   "main": "index.js",
   "scripts": {
